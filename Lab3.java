@@ -21,7 +21,7 @@ public class Main {
     else
       System.out.println("best-case input unmatched");   
 
-    String worstCase = "9";
+    String worstCase = "_";
     
     // * Initialize startTime here
     long startTimeW = System.nanoTime();
